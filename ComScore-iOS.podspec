@@ -13,6 +13,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios
   s.prepare_command = <<-CMD
                          touch .pod
+                         rm -rf ComScore/iOS/ComScore.framework/strip-framework.sh
                       CMD
 
   s.ios.deployment_target = '8.0'
