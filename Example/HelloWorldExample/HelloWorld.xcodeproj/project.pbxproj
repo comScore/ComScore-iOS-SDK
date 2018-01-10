@@ -217,7 +217,7 @@
 			);
 			inputPaths = (
 				"${SRCROOT}/Pods/Target Support Files/Pods-HelloWorld/Pods-HelloWorld-frameworks.sh",
-				"${PODS_ROOT}/../../../comScore/ComScore.framework",
+				"${PODS_ROOT}/../../../comScore/dynamic/ComScore.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
