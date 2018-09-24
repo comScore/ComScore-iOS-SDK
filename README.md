@@ -8,7 +8,7 @@ IMPORTANT NOTICE
 ================
 
 **Note that we're deprecating this repository in favour of [ComScore-iOS-watchOS-tvOS](https://github.com/comScore/ComScore-iOS-watchOS-tvOS).  We strongly advise our customers to switch to using the newly created repository instead of this one in order to keep on receiving our latest library releases. We will still push new releases in this repository for some time though before removing it entirely.**
-**Note that version 5.7.0 is the last version that will be pushed to this repository.**
+**Note that version 5.8.2 is the last version that will be pushed to this repository.**
    
 Usage
 =====
